@@ -13,6 +13,10 @@ provider "alicloud" {
   region     = var.region
 }
 
-module "vpc" {
-  source        = "./modules/vpc"
+# module "vpc" {
+#   source        = "./modules/vpc"
+# }
+
+module "ram" {
+      source        = "./modules/ram"
 }
