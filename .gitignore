@@ -1,4 +1,4 @@
-var.tf
+alicloud.key
 .terraform
 terraform.tfstate*
 
