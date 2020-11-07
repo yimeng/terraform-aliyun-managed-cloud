@@ -1,0 +1,4 @@
+var.tf
+.terraform
+terraform.tfstate*
+
